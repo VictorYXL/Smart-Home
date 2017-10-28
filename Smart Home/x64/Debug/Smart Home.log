@@ -1,0 +1,7 @@
+﻿  Record.cpp
+i:\undergraduate\smart home\smart home\record.cpp(35): warning C4311: “类型转换”: 从“DWORD (__cdecl *)(HWAVEIN,UINT,DWORD,DWORD,DWORD)”到“DWORD”的指针截断
+i:\undergraduate\smart home\smart home\record.cpp(35): warning C4302: “类型转换”: 从“DWORD (__cdecl *)(HWAVEIN,UINT,DWORD,DWORD,DWORD)”到“DWORD”截断
+i:\undergraduate\smart home\smart home\record.cpp(84): warning C4312: “类型转换”: 从“DWORD”转换到更大的“WAVEHDR *”
+i:\undergraduate\smart home\smart home\record.cpp(85): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+  Smart Home.vcxproj -> I:\Undergraduate\Smart Home\x64\Debug\Smart Home.exe
+  Smart Home.vcxproj -> I:\Undergraduate\Smart Home\x64\Debug\Smart Home.pdb (Full PDB)
