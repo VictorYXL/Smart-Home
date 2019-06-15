@@ -1,5 +1,0 @@
-﻿  SpeechRecognition.cpp
-i:\undergraduate\smart home\smart home\speechrecognition.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
-  Record.cpp
-  正在生成代码...
-LINK : fatal error LNK1104: 无法打开文件“opencv_world300d.lib”
